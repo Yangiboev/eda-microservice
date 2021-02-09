@@ -1,0 +1,3 @@
+[submodule "mb_variables"]
+	path = mb_variables
+	url = git@gitlab.udevs.io:macbro/mb_variables.git
